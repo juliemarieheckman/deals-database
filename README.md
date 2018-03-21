@@ -1,1 +1,1 @@
-# deals-database
+# My project's README
